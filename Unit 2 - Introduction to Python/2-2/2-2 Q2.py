@@ -1,0 +1,7 @@
+print("American League")
+print("East\t\tW\tL\tPCT\t\tGB")
+print("NY Yankees\t77\t41\t0.653\t-")
+print("Tampa Bay\t69\t50\t0.580\t8.5")
+print("Boston\t\t62\t58\t0.517\t16.0")
+print("Toronto\t\t49\t72\t0.405\t29.5")
+print("Baltimore\t39\t78\t0.333\t37.5")
